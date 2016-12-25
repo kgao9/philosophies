@@ -12,8 +12,7 @@ are usually sufficient. Create breakpoints within those functions and execute co
 is happening in each step.
 
 Code is only as strong as a programmer's knowledge; therefore it is crucial you understand the code.
-Of course, if you don't, just print out each object and if something doesn't make sense,
-ask for help. Running the code block by block narrows down what exactly the bug is.
+Of course, if you don't, just print out each object while using your favourite debugger (I use ipython) and if something doesn't make sense, ask for help. Running the code block by block narrows down what exactly the bug is.
 
 The point of understanding each block of code and its output is if the output isn't right, then you know
 exactly what the bug is. However, if the output is right, then it's most likely a design or logic error.
