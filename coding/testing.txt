@@ -1,0 +1,34 @@
+The intuitive idea of testing is just to verify your code works. Of course, the most common
+form of testing is unit tests, but I also do visualization and regression tests.
+
+visualization is just a simple toString method and a simple print method, but it requires my understanding for 
+verification. I can then use my code to review for exams or to review a course's concepts. 
+The second reason is for debugging. It allows me to print out objects so I can see how objects progress at 
+each step in a function.
+
+What unit tests do is it is autonomous; it says if the code is right or not quickly and always run
+the same. While visualization works for the average case, unit tests work for edge cases. It requires
+knowledge of edge cases; but it only needs to be written once.
+
+A full regression test makes sure any code that is added works with the whole application - simply, that it
+doesn't break anything. For work, this is usually a collection of unit tests.
+
+So what's the point of all of these tests? The point is simply to verify that the software is doing
+what it's supposed to - that when it is deployed, there aren't a ton of code that is going to break.
+These tests are tools used to verify the software works. So how do all of these different testing philosophies
+merge?
+
+Unit tests are low level - they make sure that each function finishes its duty as an input-output machine.
+Visualization is at a higher level - it makes sure each object is in its right state at each step of
+a procedure or data pipeline (workflow). The last part is a regression test. A regression test
+makes sure the whole pipeline works as intended.
+
+As a quick overview, I will go through an example of a sample workflow - the Morgridge GUP.
+Here, they have unit test functions for each object function. However the level above that
+is a unit test module for the object. And finally they run all their unit tests as a regression test
+before they merge their develop GIT branch with master. With visualization, they have use print(calcTuple)
+to see each step of the calculation and its status. There's multithreading along with crontab jobs involved, so
+that's the best way to keep tabs on when a job fails.
+
+So that's a quick overview of my philosophy on testing. This document will go hand-in-hand with
+the test driven development document.   
