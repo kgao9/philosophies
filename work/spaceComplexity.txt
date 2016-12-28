@@ -1,0 +1,9 @@
+The idea is to treat data as a cache which caters to the average case.
+
+Right now, the disk is filled with intermediate data calculations that no one actually uses.
+So what have I learned from this? Delete everything which is rarely used and only keep
+data that is going to be used.
+
+This means, the average case is fast and efficient while the rare request is more expensive timewise.
+It's a reasonable trade-off. However, keep remnants of data either archived or backed up so that it
+can be recalculated - otherwise, your user will get mad.
