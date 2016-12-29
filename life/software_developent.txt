@@ -1,0 +1,27 @@
+I love software development. I love coding, thinking about code, thinking about how I can make the code better,
+how I can write cleaner code, thinking of how I can debug better. I've spent the last three lives
+thinking about software, about how much cleaner my code has gotten. I can't reiterate how much I love
+software.
+Nowadays, I look back to my 368 days of C++ coding and I know it's complete garbage. The code is all mangled
+up, hard to debug, lacks comments, and it lacks direction or insight. It's hard to even think that that was a year ago
+which was half a year after I started working professionally for the SSEC. It was the year when I remet Bacon,
+one of my closest friends. That was the semester I started feverishly preparing for intro to algorithms,
+spending hours thinking about calculus theory.
+I truly believe that was the semester my coding knowledge just exploded. After that class,
+I started drawing abstract structures; I started to comment my code; I began to invest in test-driven
+development for my school work; I started to read up on coding theory. The following semester,
+I debugged using images and print methods; I was near the top of the class in algorithms; I had
+the whole world to look forward to: I was super happy and content at that time.
+But this semester, it's been a drag. Don't get me wrong - I've learned more this semester than probably
+any other semester. I've programmed my own decision tree and neural network and those weren't even assigned;
+I've perfected my test-driven development life-cycle; I started created software_requirements and specifications
+before I write my program; I started using assert statements; I started debugging smarter, but the joy
+and contentness I had with my life is gone.
+It's better that way. I have more ambition than I did half a year ago: I want to do more with my life
+than just write meaningless software all day - I want to understand where my code is going, what it's doing.
+I started working at Morgridge and there, I saw what their developers were doing. They created software
+requirement documents outlining their business requirements and workflows modeling their design choices.
+I started doing that as well.
+I love learning about software development; I love talking about it, and I love doing it.
+It's what I'll be doing for the rest of my life, and even though it's hit a rough patch right now,
+I look forward to the future.
