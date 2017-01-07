@@ -1,0 +1,129 @@
+I was never born with a brilliant mind - in fact, it was probably as dull as you can get.
+I basically went to the hospital once every year, not because I had some sickness but because I kept on doing stupid
+acts. I hit my head on a heater - 2 days in the hospital; I fell off a toy helicopter in the mall - 4 hours
+in the hospital; I knocked over a thermis and it poured boiling water on my foor - 4 more hours in the hospital; I got
+hit over the head with a small boudler while playing soccer - 3 more hours in the hospital; I got hit in the
+eye with a soccer ball - 3 more hours in the hospital and a subsequent eye exam; and I tried to brake on rocks and ended
+up skidding with my knees - 3 more hours in the hospital.
+
+So then how did I get to the point where I can help everyone get past their computer science classes
+and remain at the top of the class in all my 400 and above level courses?
+
+It's simple: I made myself intelligent although I owe most of it to my parents.
+I've been around smart people all my life - I know what brilliance feels like.
+My mother's a PHD; my father has 3 master degrees; my brother got his PHD from MIT;
+my sister in law has her own PHD and graduated from John Hopkins; my nephew is 1 year old,
+and yet when I gave him 3 phones and 2 laptops, he turned on airplane mode on 4 devices and opened
+command prompt on the other one. And that's not to mention my parents friends - most of which
+are in either top universities or top tech companies.
+
+Let me start the story here. My parents are the most unselfish people you could ever meet.
+My mother never had the opportunity to play the piano, so she made sure we would get that
+opportunity. I played the piano for 10 years because I understood that. My parents could
+see that Kevin and I loved to play chess, and so they funded us. We won trophies, won medals, but we were
+never the best. Now a days, I still play from time to time when I need a breather from programming.
+
+The first 10 years of my life wasn't what most people would consider a normal childhood. We didn't
+have toys, no family trips, rarely had any friends, no pets. My family don't have any religious beliefs or cultural
+beliefs - no Santa, easter bunny, nothing like that. If we wanted to play games, computer games, or anything
+like that, we would... Well, I can't acutally say, other than we got quite a threatening letter from the FBI about
+copyright violations and not to do that again.
+
+If anyone says I had a terrible childhood, they'd be wrong. Let me describe what I saw at a young age. I got
+to see my parents work for everything we had; I got to see how to live life and how to save money: we never wasted a cent
+on expensive trips or expensive food or expensive furniture, but my mother made sure we understood what was important, for
+every year, she saved up what little money she had to go back to China and visit her mother. That happened every
+single year. My father worked late night shifts always coming home late - my mother stayed up late at night coding.
+That's where my intelligence comes from, from simple hard work.
+
+When I went to high school, my parents got exactly what they deserved. They recieved a raise and about
+a 100 000 dollar salary. High school was where I discovered just how smart I was. In my first year there,
+I taught myself precalculus just from a book that I "borrowed" from my math teacher. This was where I first started
+programming, albeit calculator programming. The TI-84 uses BASIC and I used that to write several math programs.
+I taught myself a few loops, a few variables, etc. When I went to english class, I again "borrowed" my english teacher's
+books and read all of his annotations on his favourite books. I read his notes on Macbeth, Hamlet, Lord of the Flies,
+and that's how I learned how to write. 
+
+When I go back and read my old english notes, all I will see is underlined phrases with notes about
+how to build sentences to fit a specific tone, or various stylistic elements the author used. I wasn't reading
+about ideas, I was constructing a way of writing and that was precisely what that english teacher's
+notes were. He underlined sentence structures, what words implied what kinds of tones, and how
+to construct sentences that are both grammatically sound, yet also very very very long. Then, he would end with a short note. 7 words or less, or maybe more.
+
+That's where I got my grasp of english from. If you look closely, you'd probably see a glimpse of Tolstoy. And maybe a peek of Hawthorne, or a sprinkle of Shakespeare. History - didn't learn much from that. But my chemistry teachers, those guys
+were absolutely brilliant. The best quote from that time - as you go further in life, it's not about how much you know,
+but how you become more and more aware of the concepts that you don't know. As someone who wanted to touch anything
+that was knowledgable, as someone who wanted to learn - it was an astounding piece of advice. Of course there
+were other moments, like Kevin blowing up his test tube, or Kevin's partner pouring water on a school laptop... Bunch
+of random high school stuff.
+
+You would think a guy who spent days programming in BASIC would want to be a computer scientist right
+out of high school, but that wasn't the case at all. I wanted to be a chemist - it was my mother who
+talked me out of it. Her PHD was in chemistry, but she was also a programmer - it was she who said I'd
+make a better programmer than a chemist. She recommended me to major in computer science. I hate to admit it,
+but she was right. It wasn't until last year (2016) that I figured that out. Strangely enough,
+it wasn't a comp sci class that taught me that: it was math 421. Math 421 - theory of calculus. In lore,
+it's supposed to be the gateway to real, hard theoretical math, but instead it introduced me to real computer
+science. When I had to write proofs for that class, I was instead reducing it to base cases and exceptions,
+while for exams I had to reduce problems from one problem to another. I guess that's what you get when
+your professor graduated from MIT - I didn't ask if the professor met my brother though, thought that might
+make it weird.
+
+That course gave me a road map for creating my own programming style. You see, for the past 2 years, I was reading
+everything about programming. It was work for 8 hours, read and think about my code for 5 hours. I'm always thinking
+about how I can write my code better, how I can organize it better, what principles I can use etc.
+For those past 2 years, I was creating an intuitive programming idea which was to have all of my functions
+do one thing really well, but after finising 421, I remembered an article I read in freshmen year
+detailing functional programming and test driven development. That became my go to style for everything programming.
+It's about thinking about code as a set of inputs and outputs, about code and objects as functions.
+
+The testing idea was to first outline your problem domain. If you can figure out what inputs you have, what outputs
+you want to have, and the procedure you want your objects to be modified in, then you can draw out a workflow
+of data objects. That's my coding style - a mixture of OOP, functional programming and a bit of test driven
+development. But there are two sides of it - this style is for implementation. The other is the procedure, the
+algorithm used. I usually think of the classic algorithms - automatas, greedy, divide and conquer, network flow,
+randomization, and dynamic programming. Those are the higher level of abstraction algorithms
+usually involving procedural programming or automata programming.
+
+You see, I spend hours thinking about this. People don't hear me talking much about what I'm doing, what
+I'm seeing, but they feel the aura of it. The people I am close to never see me actually talking about my code,
+they don't see me working on it - in fact, they probably see me playing Hearthstone or fooling around on youtube,
+but they feel that when I'm there, they have to work harder. I have that effect on people precisely
+because I exert a level of intensity and pressure that they are not used to, that they probably don't even
+realize they're being exposed to. When someone looks at me, when they look at my code, they see someone who
+is incredibly focused, calm, and 100% committed to their work.
+
+But here's the thing. I'm not always 100% calm; I feel stress and pressure, guilt and regret every day but I
+try to never let it show on my face because of everyone I help. What happens to someone who is stressed out
+over a program when the person helping them is also stressed. Let me tell you: it doesn't help, and it will never help.
+Programming when you're stressed will never work, so the first thing is to calm the programmer down. When that is done,
+then you can talk to them about their logic. 
+
+Here's the thing - people ask me to help them with their code all the time. I don't mind helping people, but I
+stay away from the people who ask me at the last minute because it's far too stressful for me. If I don't answer them
+immediately, if I miss a message from them, how am I supposed to sleep well at night knowing I could've helped? People
+rationalize and say it's their fault for asking at the last minute, but I take that stuff very personally - plus
+it's not the way I think. Ask early - that's the fundamental rule in life. I don't care if you have your pride,
+if you think you should do everything by yourself, if you think it's cheating or whatever, but if you have a problem,
+the first thing you should do is ask for help. If you don't ask your boss, fine - ask a friend. Just ask somebody
+because if you wait until the last minute, you will end up hurting somebody. 
+
+That's precisely how I rose to the top. I got help from my teachers - or rather, I kind of stole it, but
+whatever. I read books, I consulted everything I could find, I trained myself to be calm, but most importantly,
+I committed myself 100% to my trade. I have a unique way of writing, whether in english or code. My intelligence
+was built on friendship, asking friends for help, asking them questions, but it was also built on hard work
+and determination. I wasn't born the smartest, but I certainly have ambition and desire - there's only one person
+I know of who has more ambition and works harder than I am, and that's my older brother (I still can't win an
+argument against him, he knows more). 
+
+And now, in my last year of university, I'm almost ready to give my parents what they've always wanted.
+I got a job the past 3 years to help ease off my tuition fee. I'm trying to find a job
+so as to give them a place to retire to - it's actually going surprisingly well. I get to live a really
+cheap lifestyle, and everything I earn goes back to them as kickback. People think just
+giving their parents money is reward enough, and then they can go live their lives - that's an
+extremely naive way of thinking. Parents always sacrifice so much for their kids without any hope or
+indication of a thank you - there's truly no way to pay them back for everything they've done.
+What I plan to do is better than most, so at least they can brag about it for a few years.
+
+So that's my life. It's surprisingly long for only 20 years of experience, especially since I strolled
+through 15 years of it. Heh Heh.
