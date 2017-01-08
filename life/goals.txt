@@ -1,0 +1,3 @@
+My goal is to master all the prgoramming methodologies mentioned in
+wikipedia, especially declarative programming, and become the best programmer
+ever. It's a pretty lofty goal, hehe...
