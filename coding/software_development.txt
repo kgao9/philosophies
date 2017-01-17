@@ -1,0 +1,12 @@
+So here's what I'm doing now. I started at Morgridge Institute of Research in November, and I saw my boss
+creating software specifications. So what I do now for all my software endeavors is I create software_requirements.txt for
+my software packages/projects and specification docstrings for all my python functions. It's a new thing I'm trying out.
+
+In the past few weeks, I've also switched my git model slightly. At SSEC, I was using this model:
+User requests feature -> create feature branch -> complete and test feature -> merge to develop -> test develop -> merge to master
+-> repeat. The new model is do the same thing for features, but instead of merging to master, merge into tests and then merge into 
+master after a few merges. 
+
+This is because of Morgridge's custom made pipeline. To recreate calculations, it uses hashes created with GUP version number. If we update
+too often, software development slows down because the previous calculations can't be found - hence we need to rerun the calculations. This
+new git model causes fewer updates to master, so the gup version doesn't need to change as frequently.
